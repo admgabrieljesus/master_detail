@@ -1,0 +1,5 @@
+[15:11:49][vscode-sqlite][INFO] Activating extension vscode-sqlite v0.14.1...
+[15:11:49][vscode-sqlite][ERROR] Unable to find a valid SQLite command. Fallback binary is not valid.
+[15:11:49][vscode-sqlite][INFO] Extension activated.
+[15:11:49][vscode-sqlite][ERROR] Failed to open database '/home/sony/Projetos/laravel-react-tests/src/database/database.sqlite': SQLite process failed to start: The argument 'file' cannot be empty. Received ''
+[15:18:26][vscode-sqlite][ERROR] Unable to find a valid SQLite command. Fallback binary is not valid.

@@ -1,0 +1,263 @@
+2024-11-30 15:10:12.404 [info] Extension host with pid 136502 started
+2024-11-30 15:10:12.404 [info] Skipping acquiring lock for /home/sony/Projetos/laravel-react-tests/src/User/workspaceStorage/6d9da0fc435fa0d66ac33fcedcddfea7.
+2024-11-30 15:10:13.230 [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-11-30 15:10:13.576 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-30 15:10:13.579 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascriptreact'
+2024-11-30 15:10:15.134 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-30 15:10:15.206 [info] ExtensionService#_doActivateExtension mtxr.sqltools, startup: true, activationEvent: '*'
+2024-11-30 15:10:15.447 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-11-30 15:10:15.830 [info] ExtensionService#_doActivateExtension mtxr.sqltools-driver-sqlite, startup: true, activationEvent: '*'
+2024-11-30 15:10:16.026 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-30 15:10:16.029 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-30 15:10:17.887 [info] Eager extensions activated
+2024-11-30 15:10:18.446 [warning] [Decorations] CAPPING events from decorations provider vscode.git 414
+2024-11-30 15:10:19.137 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-30 15:10:19.168 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-30 15:10:19.174 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-11-30 15:10:19.523 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-30 15:10:20.066 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2024-11-30 15:10:22.164 [warning] [Decorations] CAPPING events from decorations provider vscode.git 414
+2024-11-30 15:10:23.054 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-30 15:10:23.057 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-30 15:10:23.060 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-11-30 15:10:27.039 [warning] [Decorations] CAPPING events from decorations provider vscode.git 418
+2024-11-30 15:10:32.203 [warning] [Decorations] CAPPING events from decorations provider vscode.git 418
+2024-11-30 15:10:37.258 [warning] [Decorations] CAPPING events from decorations provider vscode.git 418
+2024-11-30 15:10:42.318 [warning] [Decorations] CAPPING events from decorations provider vscode.git 418
+2024-11-30 15:10:47.370 [warning] [Decorations] CAPPING events from decorations provider vscode.git 423
+2024-11-30 15:10:52.421 [warning] [Decorations] CAPPING events from decorations provider vscode.git 431
+2024-11-30 15:10:57.474 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-11-30 15:11:02.523 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-11-30 15:11:07.577 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-11-30 15:11:12.624 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-11-30 15:11:17.676 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-11-30 15:11:22.734 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-11-30 15:11:27.855 [warning] [Decorations] CAPPING events from decorations provider vscode.git 462
+2024-11-30 15:11:32.961 [warning] [Decorations] CAPPING events from decorations provider vscode.git 462
+2024-11-30 15:11:38.018 [warning] [Decorations] CAPPING events from decorations provider vscode.git 460
+2024-11-30 15:11:43.072 [warning] [Decorations] CAPPING events from decorations provider vscode.git 460
+2024-11-30 15:11:48.127 [warning] [Decorations] CAPPING events from decorations provider vscode.git 460
+2024-11-30 15:11:49.303 [info] ExtensionService#_doActivateExtension alexcvzz.vscode-sqlite, startup: false, activationEvent: 'onCommand:sqlite.explorer.add'
+2024-11-30 15:11:53.181 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-11-30 15:11:58.237 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-11-30 15:12:03.290 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-11-30 15:12:08.348 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-11-30 15:12:13.398 [warning] [Decorations] CAPPING events from decorations provider vscode.git 462
+2024-11-30 15:13:14.736 [warning] [Decorations] CAPPING events from decorations provider vscode.git 462
+2024-11-30 15:13:19.788 [warning] [Decorations] CAPPING events from decorations provider vscode.git 462
+2024-11-30 15:13:24.842 [warning] [Decorations] CAPPING events from decorations provider vscode.git 462
+2024-11-30 15:13:29.899 [warning] [Decorations] CAPPING events from decorations provider vscode.git 463
+2024-11-30 15:13:34.951 [warning] [Decorations] CAPPING events from decorations provider vscode.git 463
+2024-11-30 15:13:40.002 [warning] [Decorations] CAPPING events from decorations provider vscode.git 463
+2024-11-30 15:13:45.047 [warning] [Decorations] CAPPING events from decorations provider vscode.git 463
+2024-11-30 15:13:50.099 [warning] [Decorations] CAPPING events from decorations provider vscode.git 463
+2024-11-30 15:13:55.153 [warning] [Decorations] CAPPING events from decorations provider vscode.git 463
+2024-11-30 15:15:02.133 [warning] [Decorations] CAPPING events from decorations provider vscode.git 463
+2024-11-30 15:15:07.188 [warning] [Decorations] CAPPING events from decorations provider vscode.git 463
+2024-11-30 15:15:12.234 [warning] [Decorations] CAPPING events from decorations provider vscode.git 463
+2024-11-30 15:15:17.307 [warning] [Decorations] CAPPING events from decorations provider vscode.git 473
+2024-11-30 15:15:22.379 [warning] [Decorations] CAPPING events from decorations provider vscode.git 473
+2024-11-30 15:15:27.442 [warning] [Decorations] CAPPING events from decorations provider vscode.git 481
+2024-11-30 15:15:32.501 [warning] [Decorations] CAPPING events from decorations provider vscode.git 485
+2024-11-30 15:15:34.347 [info] ExtensionService#_doActivateExtension mtxr.sqltools-driver-mysql, startup: false, activationEvent: '*'
+2024-11-30 15:15:37.556 [warning] [Decorations] CAPPING events from decorations provider vscode.git 485
+2024-11-30 15:15:42.610 [warning] [Decorations] CAPPING events from decorations provider vscode.git 484
+2024-11-30 15:15:47.660 [warning] [Decorations] CAPPING events from decorations provider vscode.git 484
+2024-11-30 15:15:52.711 [warning] [Decorations] CAPPING events from decorations provider vscode.git 484
+2024-11-30 15:15:57.764 [warning] [Decorations] CAPPING events from decorations provider vscode.git 484
+2024-11-30 15:16:02.815 [warning] [Decorations] CAPPING events from decorations provider vscode.git 484
+2024-11-30 15:16:07.859 [warning] [Decorations] CAPPING events from decorations provider vscode.git 484
+2024-11-30 15:16:12.911 [warning] [Decorations] CAPPING events from decorations provider vscode.git 484
+2024-11-30 15:16:17.962 [warning] [Decorations] CAPPING events from decorations provider vscode.git 484
+2024-11-30 15:16:23.024 [warning] [Decorations] CAPPING events from decorations provider vscode.git 484
+2024-11-30 15:16:28.079 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:16:33.135 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:16:38.187 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:16:43.237 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:16:48.286 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:16:53.337 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:16:58.387 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:17:03.431 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:17:08.489 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:17:13.541 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:17:18.596 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:17:23.645 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:17:28.694 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:17:33.741 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:17:38.792 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:17:43.843 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:17:48.893 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:17:53.949 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:17:58.998 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:18:06.356 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:18:11.409 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:18:16.459 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:18:21.515 [warning] [Decorations] CAPPING events from decorations provider vscode.git 486
+2024-11-30 15:18:26.571 [warning] [Decorations] CAPPING events from decorations provider vscode.git 487
+2024-11-30 15:18:31.625 [warning] [Decorations] CAPPING events from decorations provider vscode.git 488
+2024-11-30 15:18:36.679 [warning] [Decorations] CAPPING events from decorations provider vscode.git 488
+2024-11-30 15:18:41.728 [warning] [Decorations] CAPPING events from decorations provider vscode.git 488
+2024-11-30 15:18:46.779 [warning] [Decorations] CAPPING events from decorations provider vscode.git 488
+2024-11-30 15:18:48.072 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-30 15:18:48.310 [error] Canceled: Canceled
+	at new tT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+	at py.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at mh.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:961845)
+	at D.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at D.C (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+	at D.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:983333)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:989455
+	at Array.forEach (<anonymous>)
+	at b.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:989441)
+	at V1.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:19994)
+	at V1.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+	at V1.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964255)
+	at V1.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+	at ci (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:699)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:14992
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:1009
+	at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at z_.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11919)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at z_.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at z_.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at EC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15084)
+	at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11632)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-11-30 15:18:48.319 [error] Canceled: Canceled
+	at new tT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+	at py.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at set hasGitHubRepositories (/usr/share/code/resources/app/extensions/github/dist/extension.js:2:328633)
+	at /usr/share/code/resources/app/extensions/github/dist/extension.js:2:329592
+	at mh.value (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1073936)
+	at D.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at D.C (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+	at D.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:983333)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:989455
+	at Array.forEach (<anonymous>)
+	at b.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:989441)
+	at V1.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:19994)
+	at V1.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+	at V1.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964255)
+	at V1.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+	at ci (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:699)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:14992
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:1009
+	at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at z_.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11919)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at z_.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at z_.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at EC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15084)
+	at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11632)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-11-30 15:18:48.321 [error] Canceled: Canceled
+	at new tT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+	at py.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at SettingsWebview.setPreviewActiveContext (/root/.vscode/extensions/mtxr.sqltools-0.28.3/dist/extension.js:1:192062)
+	at SettingsWebview.hide (/root/.vscode/extensions/mtxr.sqltools-0.28.3/dist/extension.js:1:191661)
+	at SettingsWebview.dispose (/root/.vscode/extensions/mtxr.sqltools-0.28.3/dist/extension.js:1:191730)
+	at /root/.vscode/extensions/mtxr.sqltools-0.28.3/dist/extension.js:1:6855
+	at Array.forEach (<anonymous>)
+	at SQLToolsExtension.deactivate (/root/.vscode/extensions/mtxr.sqltools-0.28.3/dist/extension.js:1:6836)
+	at exports.deactivate (/root/.vscode/extensions/mtxr.sqltools-0.28.3/dist/extension.js:1:13241)
+	at z_.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11724)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at z_.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at z_.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at EC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15084)
+	at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11632)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-11-30 15:18:48.322 [error] Canceled: Canceled
+	at new tT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+	at py.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at SettingsWebview.setPreviewActiveContext (/root/.vscode/extensions/mtxr.sqltools-0.28.3/dist/extension.js:1:192062)
+	at SettingsWebview.hide (/root/.vscode/extensions/mtxr.sqltools-0.28.3/dist/extension.js:1:191661)
+	at mh.dispose [as value] (/root/.vscode/extensions/mtxr.sqltools-0.28.3/dist/extension.js:1:191730)
+	at D.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at D.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+	at VB.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:19733)
+	at SettingsWebview.hide (/root/.vscode/extensions/mtxr.sqltools-0.28.3/dist/extension.js:1:191700)
+	at SettingsWebview.dispose (/root/.vscode/extensions/mtxr.sqltools-0.28.3/dist/extension.js:1:191730)
+	at /root/.vscode/extensions/mtxr.sqltools-0.28.3/dist/extension.js:1:6855
+	at Array.forEach (<anonymous>)
+	at SQLToolsExtension.deactivate (/root/.vscode/extensions/mtxr.sqltools-0.28.3/dist/extension.js:1:6836)
+	at exports.deactivate (/root/.vscode/extensions/mtxr.sqltools-0.28.3/dist/extension.js:1:13241)
+	at z_.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11724)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at z_.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at z_.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at EC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15084)
+	at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11632)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-11-30 15:18:48.338 [error] Canceled: Canceled
+	at new tT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+	at py.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at yE (/root/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.15/dist/extension.js:40:9105)
+	at Ne (/root/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.15/dist/extension.js:4:1357)
+	at me (/root/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.15/dist/extension.js:3:6845)
+	at Immediate.<anonymous> (/root/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.15/dist/extension.js:3:6723)
+	at process.processImmediate (node:internal/timers:483:21) setContext undefined
+2024-11-30 15:18:48.349 [error] Error: Channel has been closed
+	at s (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:2431)
+	at Object.appendLine (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:2570)
+	at D.logOutputMessage (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:285192)
+	at D.info (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:284925)
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:503028)
+	at ChildProcess.emit (node:events:519:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-11-30 15:18:48.351 [info] Extension host with pid 136502 exiting with code 0

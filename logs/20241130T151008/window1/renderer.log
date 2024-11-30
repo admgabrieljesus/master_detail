@@ -1,0 +1,24 @@
+2024-11-30 15:10:10.385 [info] Started local extension host with pid 136502.
+2024-11-30 15:10:14.538 [error] [sidthesloth.html5-boilerplate]: Linguagem desconhecida em `contributes.html5-boilerplate.language`. Valor fornecido: njk
+2024-11-30 15:10:14.539 [error] [sidthesloth.html5-boilerplate]: Linguagem desconhecida em `contributes.html5-boilerplate.language`. Valor fornecido: django-html
+2024-11-30 15:10:16.208 [info] Settings Sync: Updating due to initialize
+2024-11-30 15:10:16.209 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-30 15:10:16.211 [info] Settings Sync: Authentication providers updated []
+2024-11-30 15:10:16.525 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-30 15:10:16.526 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-30 15:10:16.528 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-30 15:10:16.529 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-30 15:10:16.531 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-30 15:10:16.531 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-30 15:10:16.532 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-30 15:10:16.533 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-30 15:10:16.536 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-30 15:10:16.537 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-30 15:10:16.539 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-30 15:10:16.540 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-30 15:10:16.541 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-30 15:10:16.543 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-30 15:10:20.932 [info] [perf] Render performance baseline is 261ms
+2024-11-30 15:11:49.333 [error] [Extension Host] [15:11:49][vscode-sqlite][ERROR] Unable to find a valid SQLite command. Fallback binary is not valid.
+2024-11-30 15:11:49.379 [error] [Extension Host] [15:11:49][vscode-sqlite][ERROR] Failed to open database '/home/sony/Projetos/laravel-react-tests/src/database/database.sqlite': SQLite process failed to start: The argument 'file' cannot be empty. Received ''
+2024-11-30 15:18:26.431 [error] [Extension Host] [15:18:26][vscode-sqlite][ERROR] Unable to find a valid SQLite command. Fallback binary is not valid.

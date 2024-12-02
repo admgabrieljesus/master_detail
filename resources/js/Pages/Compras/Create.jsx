@@ -1,5 +1,5 @@
 import React from 'react';
-import CompraForm from './Form';
+import CompraForm from './Forms';
 
 const CompraCreate = () => {
     return <CompraForm action="create" />;

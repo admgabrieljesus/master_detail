@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\AvaliacaoController;
 use App\Http\Controllers\ProfileController;
 use Illuminate\Foundation\Application;
 use Illuminate\Support\Facades\Route;
@@ -30,9 +31,10 @@ Route::middleware('auth')->group(function () {
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 });
 
-Route::middleware(['web'])->group(function () {
+Route::middleware(['web', 'auth'])->group(function () {
     // Rota para o CRUD completo de compras (resource)
     Route::resource('compras', CompraController::class);
+    Route::resource('avaliacoes', AvaliacaoController::class);
 
     // Rota para o CRUD de itens de compra (resource)
     Route::resource('itens_compras', ItemCompraController::class)->only(['store', 'update', 'destroy']);
@@ -42,6 +44,10 @@ Route::middleware(['web'])->group(function () {
 
     // Rota para listar produtos
     Route::get('/produtos', [ProdutoController::class, 'index'])->name('produtos.index');
+
+    // Rota para listar produtos
+    Route::get('/notifications', [CompraController::class, 'notifications'])->name('compra.notifications');
+    Route::get('/listnotifications', [CompraController::class, 'listnotifications']);
 });
 
 require __DIR__.'/auth.php';
